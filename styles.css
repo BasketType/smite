@@ -1,0 +1,70 @@
+body {
+    background-color: #192745;
+}
+
+h1{
+    color: azure;
+    font-size: 4rem;
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem 0 1rem 0;
+}
+
+h2{
+    font-size: 3rem;
+    color: azure;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    color: azure;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    padding: 0 0 0 10px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 3.5%;
+}
+
+#nav{
+    color: lightgrey;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: "Montserrat";
+    padding-bottom: 200px;
+   
+}
+
+.car1 {
+
+    padding: 3.5% 7.5%;
+}
+
+.slider {
+    text-align: center;
+    
+}
+
+.disc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#features{
+    
+    padding: 7% 15%;
+
+}
+
